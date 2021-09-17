@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vijayindalkar
 - 👀 I’m interested in Learning weird stuffs 
-- 🌱 I’m currently learning DS ALGO
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on Blockchain
 - 📫 How to reach me https://www.linkedin.com/in/vijay-indalkar-712048193/
 
